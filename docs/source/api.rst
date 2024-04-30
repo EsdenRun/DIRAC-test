@@ -4,4 +4,4 @@ API
 .. autosummary::
    :toctree: generated
 
-   lumache
+   This section provides detailed API documentation for all public functions and classes in SpaGNNs.
