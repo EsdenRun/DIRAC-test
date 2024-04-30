@@ -26,3 +26,8 @@ pip install spagnns
 > Installing within a
 > [conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 > is recommended.
+
+## Usage
+
+Please checkout the documentations and tutorials at
+[spagnns.readthedocs.io](https://runspagnns.readthedocs.io/).
