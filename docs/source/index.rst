@@ -7,6 +7,35 @@ In the context of single-cell multi-omics, the data modalities correspond to omi
 
 To get started with ``SpaGNNs``, check out the `installation guide <install.rst>`__ and `tutorials <tutorials.rst>`__.
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   install
+   tutorials
+   data
+   api
+   release
+   dev
+   credits
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+
+
+
+
+
+
+
+
+
+
+
+
 For more details about the SpaGNNs framework, please check out our `publication <https://doi.org/10.1038/s41587-022-01284-4>`__.
 
 
