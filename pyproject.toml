@@ -4,5 +4,13 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "SpaGNNs"
-authors = [{name = "ChangXu", email = "changxu@nus.edu.sg"}]
+version = "0.3.2"
+description = "Graph-linked unified embedding for unpaired single-cell multi-omics data integration"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {file = "LICENSE"}
+authors = [{name = "ChangXu", email = "changxu@nus.edu.sg"},
+           {name = "Boxiang Liu", email = "boxiangliu@nus.edu.sg"}
+          ]
+keywords = ["bioinformatics", "deep-learning", "single-cell", "single-cell-multiomics"]
 dynamic = ["version", "description"]
