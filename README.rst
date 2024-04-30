@@ -1,9 +1,18 @@
-Template for the Read the Docs tutorial
-=======================================
+## Installation
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+The `scglue` package can be installed via conda using one of the following commands:
 
-Read the tutorial here:
+```sh
+conda install -c conda-forge -c bioconda scglue  # CPU only
+conda install -c conda-forge -c bioconda scglue pytorch-gpu  # With GPU support
+```
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Or, it can also be installed via pip:
+
+```sh
+pip install scglue
+```
+
+> Installing within a
+> [conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+> is recommended.
