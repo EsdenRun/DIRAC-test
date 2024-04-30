@@ -21,18 +21,6 @@ For more details about the GLUE framework, please check out our `publication <ht
    dev
    credits
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   install
-   tutorials
-   data
-   api
-   release
-   dev
-   credits
-
 Indices and tables
 ==================
 
