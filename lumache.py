@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+SpaGNNs - Python library for spatial integration and annotation.
 """
 
 __version__ = "0.1.0"
