@@ -5,20 +5,20 @@ Installation guide
 Main package
 ************
 
-The ``scglue`` package can be installed via conda using one of the following commands:
+The ``spagnns`` package can be installed via conda using one of the following commands:
 
 .. code-block:: bash
     :linenos:
 
-    conda install -c conda-forge -c bioconda scglue  # CPU only
-    conda install -c conda-forge -c bioconda scglue pytorch-gpu  # With GPU support
+    conda install -c conda-forge -c bioconda spagnns  # CPU only
+    conda install -c conda-forge -c bioconda spagnns pytorch-gpu  # With GPU support
 
 Or, it can also be installed via pip:
 
 .. code-block:: bash
     :linenos:
 
-    pip install scglue
+    pip install spagnns
 
 .. note::
     To avoid potential dependency conflicts, installing within a
@@ -35,4 +35,4 @@ which can receive significant speed up with the `faiss <https://github.com/faceb
 
 You may install ``faiss`` following the official `guide <https://github.com/facebookresearch/faiss/blob/main/INSTALL.md>`__.
 
-Now you are all set. Proceed to `tutorials <tutorials.rst>`__ for how to use the ``scglue`` package.
+Now you are all set. Proceed to `tutorials <tutorials.rst>`__ for how to use the ``spagnns`` package.
