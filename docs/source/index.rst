@@ -1,4 +1,4 @@
-Welcome to SpaGNN's documentation!
+Welcome to DIRAC's documentation!
 ===================================
 
 SpaGNN is a flexible framework that utilizes prior knowledge about feature relations to bridge the gap between different feature spaces during unpaired multi-modal data integration.
